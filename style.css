@@ -1,0 +1,39 @@
+body{
+color:white;
+font-weight:bold;
+background-image: url('img/nasa.jpg');
+background-size: cover;
+}
+
+.btn{
+text-align:center;
+color:white;
+text-size:500;
+
+margin-top:7px;
+margin-left:80px;
+margin-right:auto;
+background:none;
+border:none;
+}
+
+.allbtn{
+
+text-align:center;
+background:#0096FF;
+padding:10px;
+}
+
+.bold{
+background:black;
+font-family: "Arial, Helvetica, sans-serif";
+font-size: 20px;
+}
+
+.link{
+color:white;
+font-weight:bold;
+size:100;
+}
+
+
